@@ -28,14 +28,12 @@ h2 {
     padding: 20px;
 }
 
-/*
 .contenedor-certificados {
     grid-column: 1 / span 3;
     grid-row: 3 / span 1;
     border-radius: 15px;
     padding: 20px;
 }
-*/
 
 .contenedor-certificados {
     grid-column: 1 / span 3;
